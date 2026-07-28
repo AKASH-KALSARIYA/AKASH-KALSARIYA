@@ -67,16 +67,14 @@
 
 ---
 
-### 💡 Daily Coding Quote & Profile Trophies
+### 📈 Contribution Graph & 3D Snake
 
 <p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=AKASH-KALSARIYA&theme=onedark&column=6&margin-w=15&margin-h=15&no-frame=true" alt="Akash Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKASH-KALSARIYA&theme=tokyo-night&hide_border=true&area=true" alt="Akash's Contribution Graph" width="100%" />
 </p>
 
-<br/>
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" width="80%" />
+  <img src="https://raw.githubusercontent.com/AKASH-KALSARIYA/AKASH-KALSARIYA/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </p>
 
 ---
