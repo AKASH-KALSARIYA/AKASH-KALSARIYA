@@ -82,7 +82,7 @@
 
 | Project | Tech Stack | Key Highlights |
 | :--- | :--- | :--- |
-| ** Kali Linux Advance** | `Golang`, `MongoDB`, `DigitalOcean Spaces`, `GitHub Actions`, `Nginx` | Built scalable Golang backend with JWT auth, bcrypt hashing, SMTP OTP, IP rate limiting, and DigitalOcean Droplet deployment. |
+| **🚀 Kali Linux Advance** | `Golang`, `MongoDB`, `DigitalOcean Spaces`, `GitHub Actions`, `Nginx` | Built scalable Golang backend with JWT auth, bcrypt hashing, SMTP OTP, IP rate limiting, and DigitalOcean Droplet deployment. |
 | **📊 Admin Panel** | `React.js`, `Vite`, `Golang`, `MongoDB`, `Tailwind CSS`, `DigitalOcean` | Developed a responsive admin dashboard with custom UI modals, data grids, Axios integration, and continuous deployment. |
 
 ---
