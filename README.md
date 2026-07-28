@@ -67,14 +67,10 @@
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Daily Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKASH-KALSARIYA&theme=tokyo-night&hide_border=true&area=true" alt="Akash's Contribution Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://snk-generator.vercel.app/api/snk?username=AKASH-KALSARIYA&theme=dark" alt="Snake Animation" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKASH-KALSARIYA&theme=tokyo-night&hide_border=true&area=true&days=30" alt="Akash's Daily Contribution Activity" width="100%" />
 </p>
 
 ---
