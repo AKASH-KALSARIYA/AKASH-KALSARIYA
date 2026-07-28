@@ -67,15 +67,16 @@
 
 ---
 
-### 📊 GitHub Statistics & Activity
+### 💡 Daily Coding Quote & Profile Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKASH-KALSARIYA&theme=tokyo-night&hide_border=true&area=true" alt="Akash's Activity Graph" width="100%" />
+  <img src="https://github-profile-trophies.vercel.app/?username=AKASH-KALSARIYA&theme=onedark&column=6&margin-w=15&margin-h=15&no-frame=true" alt="Akash Trophies" />
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKASH-KALSARIYA&theme=tokyonight" alt="Profile Details" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKASH-KALSARIYA&theme=tokyonight" alt="Repos Per Language" width="49%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" width="80%" />
 </p>
 
 ---
