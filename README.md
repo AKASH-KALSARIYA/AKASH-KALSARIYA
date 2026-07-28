@@ -67,14 +67,14 @@
 
 ---
 
-### 📈 Contribution Graph & 3D Snake
+### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKASH-KALSARIYA&theme=tokyo-night&hide_border=true&area=true" alt="Akash's Contribution Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AKASH-KALSARIYA/AKASH-KALSARIYA/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://snk-generator.vercel.app/api/snk?username=AKASH-KALSARIYA&theme=dark" alt="Snake Animation" width="100%" />
 </p>
 
 ---
