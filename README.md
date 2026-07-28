@@ -67,24 +67,15 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Statistics & Activity
 
 <p align="center">
-  <a href="https://github.com/AKASH-KALSARIYA">
-    <img src="https://github-readme-stats.vercel.app/api?username=AKASH-KALSARIYA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akash's GitHub Stats" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKASH-KALSARIYA&theme=tokyo-night&hide_border=true&area=true" alt="Akash's Activity Graph" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/AKASH-KALSARIYA">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH-KALSARIYA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AKASH-KALSARIYA">
-    <img src="https://streak-stats.demolab.com?user=AKASH-KALSARIYA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKASH-KALSARIYA&theme=tokyonight" alt="Profile Details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKASH-KALSARIYA&theme=tokyonight" alt="Repos Per Language" width="49%" />
 </p>
 
 ---
