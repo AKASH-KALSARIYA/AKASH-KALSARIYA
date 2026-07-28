@@ -67,10 +67,10 @@
 
 ---
 
-### 📈 Daily Coding Activity
+### 📈 Contribution Graph & History
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKASH-KALSARIYA&theme=tokyo-night&hide_border=true&area=true&days=30" alt="Akash's Daily Contribution Activity" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKASH-KALSARIYA&theme=tokyo-night&hide_border=true&area=true" alt="Akash's Activity Graph" width="100%" />
 </p>
 
 ---
