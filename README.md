@@ -71,19 +71,19 @@
 
 <p align="center">
   <a href="https://github.com/AKASH-KALSARIYA">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=AKASH-KALSARIYA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akash's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AKASH-KALSARIYA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Akash's GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AKASH-KALSARIYA">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AKASH-KALSARIYA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH-KALSARIYA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AKASH-KALSARIYA">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKASH-KALSARIYA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=AKASH-KALSARIYA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
